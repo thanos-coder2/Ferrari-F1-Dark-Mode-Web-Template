@@ -1,5 +1,9 @@
 🏎️ Ferrari F1 Dark Mode Web Template
 
+![Screenshot](images-readme/hero-f1.png)
+![Screenshot](images-readme/history-f1.png)
+![Screenshot](images-readme/cards-f1.png)
+![Screenshot](images-readme/video-f1.png)
 A modern, fully custom HTML / CSS / JavaScript template inspired by the world of Scuderia Ferrari in Formula 1.
 The design blends intense Rosso Corsa red with deep black accents, creating a dark, dynamic, and racing-driven atmosphere that reflects Ferrari’s signature energy, precision, and speed.
 
