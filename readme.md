@@ -4,23 +4,29 @@
 ![Screenshot](images-readme/history-f1.png)
 ![Screenshot](images-readme/cards-f1-1.png)
 ![Screenshot](images-readme/video-f1.png)
-A modern, fully custom HTML / CSS / JavaScript template inspired by the world of Scuderia Ferrari in Formula 1.
-The design blends intense Rosso Corsa red with deep black accents, creating a dark, dynamic, and racing-driven atmosphere that reflects Ferrari’s signature energy, precision, and speed.
+Project Description
 
-🔥 Live Demo: https://f1-colors-template.netlify.app/
+A modern, fully custom HTML, CSS, and JavaScript template inspired by the iconic visual identity of Scuderia Ferrari in Formula 1. The design combines the intense Rosso Corsa red with deep black tones to create a bold, high-contrast interface that captures the spirit of Ferrari — speed, precision, and performance.
 
-✨ Features
+The template focuses on delivering a dynamic and immersive racing-inspired user interface, while maintaining clean structure and high performance. Every component is designed with attention to visual detail, smooth transitions, and responsive behavior to ensure a consistent experience across all devices.
 
-🔴 Ferrari F1 Red & Black Color Palette
+Built without external frameworks, the project emphasizes lightweight architecture, maintainable code, and fast loading speeds, making it suitable both as a design showcase and as a foundation for real web projects.
 
-🌑 Dark Mode styling with smooth transitions
+🔥 Live Demo:
+https://f1-colors-template.netlify.app/
 
-📱 Fully responsive design for all screen sizes
+Features
 
-🎨 Custom UI components inspired by F1 aesthetics
+🔴 Ferrari-inspired Rosso Corsa red and black color palette
 
-⚡ Lightweight and fast loading
+🌑 Dark mode interface with smooth UI transitions
 
-🧩 Clean and modular code structure
+📱 Fully responsive layout optimized for mobile, tablet, and desktop
 
-🚫 No frameworks — pure HTML, CSS, and JavaScript
+🎨 Custom UI components inspired by Formula 1 design aesthetics
+
+⚡ High performance and lightweight structure
+
+🧩 Clean and modular code organization
+
+🚫 No frameworks — built with pure HTML, CSS, and JavaScript
