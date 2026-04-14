@@ -6,7 +6,7 @@
 ![Screenshot](images-readme/video-f1.png)
 Project Description
 
-A modern, fully custom HTML, CSS, and JavaScript template inspired by the iconic visual identity of Scuderia Ferrari in Formula 1. The design combines the intense Rosso Corsa red with deep black tones to create a bold, high-contrast interface that captures the spirit of Ferrari — speed, precision, and performance.
+A modern, fully custom HTML, CSS, and JavaScript template inspired by the iconic visual identity of Scuderia Ferrari in Formula 1. The design combines the intense Rosso Corsa red with deep black tones to create a bold, high-contrast interface that captures the spirit of Ferrari - speed, precision, and performance.
 
 The template focuses on delivering a dynamic and immersive racing-inspired user interface, while maintaining clean structure and high performance. Every component is designed with attention to visual detail, smooth transitions, and responsive behavior to ensure a consistent experience across all devices.
 
