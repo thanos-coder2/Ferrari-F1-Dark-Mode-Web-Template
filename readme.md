@@ -1,7 +1,7 @@
 🏎️ Ferrari F1 Dark Mode Web Template
  
 ![Screenshot](images-readme/hero-f1.png)
-![Screenshot](images-readme/history-f1.png)
+![Screenshot](images-readme/history-f1.png) 
 ![Screenshot](images-readme/cards-f1-1.png) 
 ![Screenshot](images-readme/video-f1.png)
 Project Description
