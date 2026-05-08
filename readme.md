@@ -29,4 +29,4 @@ Features
 
 🧩 Clean and modular code organization
 
-🚫 No frameworks — built with pure HTML, CSS, and JavaScript
+🚫 No frameworks - built with pure HTML, CSS, and JavaScript
