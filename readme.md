@@ -1,4 +1,4 @@
-🏎️ Ferrari F1 Dark Mode Web Template
+🏎️ Ferrari F1 Dark Mode Web Template 
  
 ![Screenshot](images-readme/hero-f1.png)
 ![Screenshot](images-readme/history-f1.png) 
