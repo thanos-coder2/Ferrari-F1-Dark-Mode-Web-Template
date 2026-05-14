@@ -1,4 +1,4 @@
-#🏎️ Ferrari F1 Dark Mode Web Template 
+# 🏎️ Ferrari F1 Dark Mode Web Template 
  
 ![Screenshot](images-readme/hero-f1.png)
 ![Screenshot](images-readme/history-f1.png) 
@@ -12,7 +12,7 @@ The template focuses on delivering a dynamic and immersive racing-inspired user 
 
 Built without external frameworks, the project emphasizes lightweight architecture, maintainable code, and fast loading speeds, making it suitable both as a design showcase and as a foundation for real web projects.
 ---
-#🔥 Live Demo:
+🔥 Live Demo:
 https://f1-colors-template.netlify.app/
 
 # Features
