@@ -14,7 +14,7 @@ Built without external frameworks, the project emphasizes lightweight architectu
 ---
 🔥 Live Demo:
 https://f1-colors-template.netlify.app/
-
+ 
 # Features
 ---
 🔴 Ferrari-inspired Rosso Corsa red and black color palette
